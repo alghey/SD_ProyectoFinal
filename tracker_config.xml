@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <param name="context" value="./tracker/"/>
+  <param name="torrentXML" value="./tracker/files/torrents.xml"/>
+  <param name="peerXML" value="./tracker/files/peers.xml"/>
+  <param name="listeningPort" value="8081"/>
+  <param name="servername" value="Hilos_main.Tracker"/>
+  <param name="torrentsDir" value="./tracker/files/torrentsFile/"/>
+</config>
